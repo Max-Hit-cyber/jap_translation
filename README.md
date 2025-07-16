@@ -1,6 +1,5 @@
-# jap_translation
-# I am a university student and trying to create translation file from Japanese to English, or vice versa.
-# The Japanese term "日本語” means "Japanese", for other terms can be ignored.
+# translation from English to Japanese, or from Japanese to English.
+# The Japanese term "日本語” means "Japanese".
 
 """Let's play 翻訳ゲーム!"""
 
